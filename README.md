@@ -18,7 +18,7 @@ EtherNova is a cutting-edge NFT marketplace built on the blockchain, empowering 
 *   **Database:** MongoDB
 *   **Storage:** IPFS
 
-**Screenshots**
+# **Screenshots**
 
 **Home Page**
 
