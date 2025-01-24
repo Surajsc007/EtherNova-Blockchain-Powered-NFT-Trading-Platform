@@ -1,8 +1,8 @@
-** EtherNova: Revolutionizing Digital Asset Ownership with NFTs **
+**EtherNova: Revolutionizing Digital Asset Ownership with NFTs**
 
 EtherNova is a cutting-edge NFT marketplace built on the blockchain, empowering creators and collectors to seamlessly create, trade, and manage digital assets. Leveraging the power of Solidity, React, Node.js, Express.js, MongoDB, and IPFS, EtherNova offers a secure, decentralized, and user-friendly platform for the future of digital ownership.
 
-** Key Features **
+**Key Features**
 
 *   **Decentralized Trading:** Secure and transparent NFT transactions on the blockchain.
 *   **Easy NFT Creation:** Mint your own NFTs with a simple and intuitive interface.
@@ -10,7 +10,7 @@ EtherNova is a cutting-edge NFT marketplace built on the blockchain, empowering 
 *   **Explore and Discover:** Browse a diverse range of NFTs and collections.
 *   **Secure and Reliable:** Built with robust technologies for a secure and dependable platform.
 
-** Tech Stack **
+**Tech Stack**
 
 *   **Smart Contracts:** Solidity
 *   **Frontend:** React
@@ -18,13 +18,13 @@ EtherNova is a cutting-edge NFT marketplace built on the blockchain, empowering 
 *   **Database:** MongoDB
 *   **Storage:** IPFS
 
-** Screenshots **
+**Screenshots**
 
-** Home Page **
+**Home Page**
 
 ![Home Page](https://github.com/user-attachments/assets/e5584688-23b0-45ae-94e1-5b8235baa92e)
 
-** NFT User Dashboard **
+**NFT User Dashboard**
 
 ![NFT User Dashboard](https://github.com/user-attachments/assets/064f7518-4325-4ce8-8b7c-ac039775dca3)
 
@@ -32,30 +32,30 @@ EtherNova is a cutting-edge NFT marketplace built on the blockchain, empowering 
 
 ![Create NFT Page](https://github.com/user-attachments/assets/30e2e200-a84f-4df0-adf1-1a209719e60d)
 
-** Explore NFTs Page **
+**Explore NFTs Page**
 
 ![Explore NFTs Page](https://github.com/user-attachments/assets/b805f442-c135-40a9-b264-9441bc7bae95)
 
-** Explore Collections Page **
+**Explore Collections Page**
 
 ![Explore Collections Page](https://github.com/user-attachments/assets/d9de055e-c624-4d6f-a18e-b8a0c7b23934)
 
-** NFT Purchase Page **
+**NFT Purchase Page**
 
 ![NFT Purchase Page](https://github.com/user-attachments/assets/cdd3a729-5df8-4b8d-a232-dc2b6c325c82)
 
-** Getting Started **
+**Getting Started**
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-** Prerequisites **
+**Prerequisites**
 
 *   Node.js
 *   npm or yarn
 *   MongoDB (local or cloud instance)
 *   Metamask or other Web3 wallet
 
-** Installation **
+**Installation**
 
 1.  Clone the repository:
 
