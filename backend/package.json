@@ -6,8 +6,7 @@
   "type": "module",
   "scripts": {
     "local": "cross-env NODE_ENV=development nodemon src/index.js",
-    "prod": "cross-env NODE_ENV=production nodemon src/index.js",
-    "build": "react-scripts build"
+    "prod": "cross-env NODE_ENV=production nodemon src/index.js"
   },
   "author": "",
   "license": "ISC",

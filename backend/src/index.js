@@ -1,7 +1,7 @@
 import express from "express";
 import cors from "cors";
 
-import { config } from "../src/config/config.js";
+import { config } from "../config/config.js";
 import { MainMiddleware } from "./middlewares/MainMiddleware.js";
 
 import { routerNFTs } from "./routes/shop.route.js";

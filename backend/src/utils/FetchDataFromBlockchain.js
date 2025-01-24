@@ -1,6 +1,6 @@
 import axios from "axios";
 import { ContractInstance, web3 } from "./Contract.js";
-import { Nfts } from "../database/models.js";
+import { Nfts } from "../../database/models.js";
 
 const eventFetch = async () => {
   const subscription = ContractInstance.events.triggerNodejsServer();

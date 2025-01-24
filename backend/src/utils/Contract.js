@@ -1,5 +1,5 @@
 import Web3 from "web3";
-import { config } from "../src/config/config.js";
+import { config } from "../../config/config.js";
 import Abi from "../utils/contract/Marketplace.json" assert { type: "json" };
 
 const web3 = new Web3(
