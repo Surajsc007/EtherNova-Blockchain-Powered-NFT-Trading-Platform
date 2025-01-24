@@ -1,5 +1,5 @@
-import { Users } from "../../database/models.js";
-import { config } from "../../config/config.js";
+import { Users } from "../database/models.js";
+import { config } from "../config/config.js";
 
 const setProfilePhoto = async (req, res) => {
   const { EthUser } = req.body;
