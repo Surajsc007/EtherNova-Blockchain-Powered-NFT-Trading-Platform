@@ -1,4 +1,4 @@
-##**EtherNova: Revolutionizing Digital Asset Ownership with NFTs**
+# **EtherNova: Revolutionizing Digital Asset Ownership with NFTs**
 
 EtherNova is a cutting-edge NFT marketplace built on the blockchain, empowering creators and collectors to seamlessly create, trade, and manage digital assets. Leveraging the power of Solidity, React, Node.js, Express.js, MongoDB, and IPFS, EtherNova offers a secure, decentralized, and user-friendly platform for the future of digital ownership.
 
