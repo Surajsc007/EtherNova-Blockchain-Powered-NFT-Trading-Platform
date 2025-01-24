@@ -7,8 +7,8 @@ import { dirname } from "path";
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
-import { Collection } from "../../database/models.js";
-import { config } from "../../config/config.js";
+import { Collection } from "../database/models.js";
+import { config } from "../config/config.js";
 
 const createCollection = async (req, res) => {
   const { EthUser, name, tag } = req.body;

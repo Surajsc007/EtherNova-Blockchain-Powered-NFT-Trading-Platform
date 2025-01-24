@@ -1,5 +1,5 @@
-import { Connect } from "../../database/connect.js";
-import { Nfts } from "../../database/models.js";
+import { Connect } from "../database/connect.js";
+import { Nfts } from "../database/models.js";
 
 Connect();
 
