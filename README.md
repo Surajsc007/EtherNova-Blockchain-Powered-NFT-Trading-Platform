@@ -60,7 +60,7 @@ These instructions will get you a copy of the project up and running on your loc
 1.  Clone the repository:
 
     ```bash
-    git clone [invalid URL removed]  # Replace with your repo URL
+    git clone https://github.com/Surajsc007/EtherNova-Blockchain-Powered-NFT-Trading-Platform.git
     ```
 
 2.  Navigate to the project directory:
